@@ -1,0 +1,13 @@
+This file is used to show
+the proper use of hexdump
+and how it can be used with
+proper suffixes that display 
+octal, hex+ASCII display. 
+It also shows the correct 
+offset displayed on the 
+beginning of each line 
+starting at zero and 
+increasing in hexidecimal. 
+This file is used and created 
+by Jacob Stone.odd
+
